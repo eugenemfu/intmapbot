@@ -81,7 +81,7 @@ def add_marker(point):
 
 
 def main():
-    updater = Updater("1550894078:AAEFilkqrBzPDCdaZo_2BPAYJKXM2xSR04s")
+    updater = Updater("")  # paste token
 
     dispatcher = updater.dispatcher
 
